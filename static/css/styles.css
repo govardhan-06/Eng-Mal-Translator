@@ -1,13 +1,7 @@
-.translate-content{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+.translate-box{
+    width: -webkit-fill-available;
 }
 
-.translate-button{
-    display: flex;
-    justify-content: end;
-    margin-bottom: 0.5rem;
+.translate-btn{
+    width: 100px;
 }
-
